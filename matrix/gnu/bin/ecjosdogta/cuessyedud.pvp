@@ -1,0 +1,16 @@
+@Minor Update Ping 
+Apprently odyssey's rewards were bugged for when you cashed out. Normally, 
+every 100 intensity is an extra reward (either 100 gems or any of the shards), 
+with you starting off at 3 draws. This was bugged and the amount of draws youd 
+have reset every room, effectively locking you to 1-2. This was fixed and you 
+now properly get more rewards and can get Elemental and Phoenix shards much faster
+Fixed not receiving any end reward when losing in Odyssey. Losing is supposed 
+to cash out 6 less than your current draws
+Fixed being able to retry when losing in Odyssey
+
+Receiving the shards from a cashout might not display, but if you check your 
+inventory you will see that you did indeed gain the shards
+
+Enjoy the reworked Odyssey mode, sorry for the issues this update but it shouldn't 
+happen again, I just finished moving in, although my arrangement is still a bit 
+sketch rn 🥶

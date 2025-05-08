@@ -1,0 +1,12 @@
+Fixed bosses getting stuck during their transformation, becoming unkillable
+it apparently still happens rarely, but we havent received any information 
+on how to reproduce it consistently yet.
+Fixed Boo's self-cleanse to automatically remove any existing debuffs and 
+stuns once the cooldown ends
+Fixed bosses not visually transforming into their second phases
+Fixed Saber (Black Tyrant) Extra Attacks from Summoned Servant passive 
+dealing 2x more damage than it should
+ 
+also, forgot to mention this in the 5.5 update log, but boss rush tournament 
+has been removed. no one liked it & from our analytics, barely anyone played 
+it as well. 

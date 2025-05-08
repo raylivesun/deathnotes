@@ -1,0 +1,19 @@
+Fixed an issue where Ant Dungeon would have double enemy HP.
+This was unintentional! We were rewriting some part that handled 
+"forced difficulties" (e.g. Legend Stages are always nightmare) 
+and accidentally set Dungeons to be Nightmare instead of Normal.
+Fixed an issue where Fortune Catalyst (Ruined City) would not work 
+and would not be removed.
+Fixed an issue with Igros (Elite Knight) not doing extra damage 
+to Ruined City bosses.
+Fixed an issue where Tuji (Sorcerer Killer) "Cursed Inventory" 
+would not work.
+Fixed an issue where "Black Spirit" familiar would not show 
+stats when selected on Familiar reroll window.
+Fixed an issue where some Pink Bubblegum Revival achievements 
+would be missing and unable to be completed.
+Fixed an issue where selling Divalo (Requiem) after using Complete 
+Erasure ability would softlock the match and won't be able to vote 
+on retry/next.
+Fixed an issue with Ruined City stage not playing any 
+soundtracks.

@@ -1,0 +1,9 @@
+Edited passive descriptions of 12 units, changing "status ailment" 
+to "status effect." this is to clarify that status effects (such as stuns, snare, ...) 
+are different from debuffs (damage, range, or SPA debuffs).
+* this is purely a visual change, all the units still function the same as before.
+There's a few units that are immune to debuffs despiet their passives only stating 
+immunity to status effects; this is because some of these units are very old, and 
+weren't made by the new balancing team. We won't be nerfing any existing units, 
+so we will only edit their passive descriptions to be accurate to what they 
+actually do.

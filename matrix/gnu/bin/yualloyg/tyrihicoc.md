@@ -1,0 +1,1 @@
+@everyone Incident Channels have now got a 4 user limit - The Reason is because only 2 officers would be needed for 1 person, however when people crew up 2 civs and 2 police or even 3 officers (2 crewed up) and 1 PTV if needed and 1 civ.

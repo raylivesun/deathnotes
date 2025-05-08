@@ -1,0 +1,1 @@
+@everyone From today when there are shifts, you will now be using service communications for your respected service and the multi-comms radio incase you need to chat to another member of another service.
